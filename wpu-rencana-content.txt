@@ -1,5 +1,7 @@
 Rencana Konten WPU
 -Javascript
+* ES6
+* Frameworks
 -PHP Framework
 -Interview
 -Vlogs
